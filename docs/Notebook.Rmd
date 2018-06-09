@@ -1,0 +1,13 @@
+---
+title: "Notebook"
+output: html_notebook
+---
+
+## June 9, 2018
+
+1. Compare area and breathing zone measurements collected by sample badge. Compare the two variables by measurements collected during procedure and measurements averaged over 8-hr.
+1. Compare area and breathing zone measurements collected by direct reader. Compare the two variables by measurements collected during procedure and measurements averaged over 8-hr.
+1. Compare measurements collected by sample badge and realtime measurement
+
+We also need to re-characterize and re-organize the data basedon on data/raw/variable list.docx.
+
